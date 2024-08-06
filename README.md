@@ -1,1 +1,1 @@
-Este es un proyecto de prueba para aprender a crear un respositorio y clonarlo desde github a mi computadora
+Este es un proyecto de prueba para aprender a crear un repositorio y clonarlo desde github a mi computadora. Henry
